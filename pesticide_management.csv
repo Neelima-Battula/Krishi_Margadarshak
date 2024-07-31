@@ -1,0 +1,101 @@
+Recommended_Crop,Potential_Disease,Disease_Solution,Recommended_Pesticide
+Soybean,White Rust,Use resistant varieties and apply fungicides,Mancozeb
+Cotton,Southern Blight,Use fungicides and practice crop rotation,Deltamethrin
+Wheat,Crown Gall,Fungicide application and plant resistant varieties,Tebuconazole
+Sugarcane,Sunburn,Use resistant varieties and apply fungicide,Thiacloprid
+Wheat,Gray Mold,Fungicide application and plant resistant varieties,Sulfur
+Sugarcane,Early Blight,Regular monitoring and fungicide application,Neem Oil
+Potato,Blossom End Rot,Use fungicide and practice crop rotation,Neem Oil
+Maize,Wirestem,Regular monitoring and fungicide application,Propiconazole
+Soybean,Alternaria Blight,Apply copper-based fungicides,Propiconazole
+Tomato,Black Spot,Use resistant varieties and apply fungicides,Chlorothalonil
+Rice,Nutrient Deficiency,Use resistant varieties and ensure proper drainage,Lambda-Cyhalothrin
+Rice,Leaf Spot,Fungicide application and plant resistant varieties,Carbendazim
+Tomato,Sunburn,Apply appropriate bactericide and ensure proper water management,Azoxystrobin
+Wheat,Bacterial Wilt,Use resistant varieties and apply fungicide,Myclobutanil
+Wheat,Downy Spot,Use resistant varieties and ensure proper drainage,Imidacloprid
+Cotton,Late Blight,Regular monitoring and fungicide application,Deltamethrin
+Wheat,Crown Rot,Use resistant varieties and apply fungicides,Sulfur
+Sugarcane,Stem Rust,Use resistant varieties and ensure proper drainage,Carbendazim
+Sugarcane,Bacterial Soft Rot,Use fungicide and practice crop rotation,Deltamethrin
+Peanut,Cercospora Leaf Spot,Use fungicide and practice crop rotation,Lambda-Cyhalothrin
+Maize,Leaf Scorch,Use fungicides and practice crop rotation,Captan
+Cotton,Downy Spot,Apply appropriate bactericide and ensure proper water management,Spinosad
+Wheat,Leaf Roll,Fungicide application and plant resistant varieties,Abamectin
+Tomato,Botrytis Blight,Use fungicide and practice crop rotation,Deltamethrin
+Tomato,Wirestem,Use fungicide and practice crop rotation,Azoxystrobin
+Wheat,Zonate Leaf Spot,Improve drainage and use appropriate fungicides,Azoxystrobin
+Sugarcane,Damping-Off,Use fungicide and practice crop rotation,Abamectin
+Peanut,Early Blight,Apply copper-based fungicides,Copper Oxychloride
+Peanut,Zonate Leaf Spot,Use fungicides and practice crop rotation,Abamectin
+Wheat,Grain Mold,Use fungicides and practice crop rotation,Deltamethrin
+Barley,Root Rot,Use fungicide and practice crop rotation,Propiconazole
+Tomato,Iron Chlorosis,Use resistant varieties and ensure proper drainage,Bacillus thuringiensis
+Wheat,Ring Spot,Apply appropriate bactericide and ensure proper water management,Imidacloprid
+Barley,Scorch,Use fungicide and practice crop rotation,Imidacloprid
+Sugarcane,Cotton Root Rot,Apply appropriate bactericide and ensure proper water management,Metalaxyl
+Soybean,Botrytis Blight,Use resistant varieties and ensure proper drainage,Neem Oil
+Sugarcane,Powdery Scab,Apply copper-based fungicides,Spinosad
+Sugarcane,Brown Spot,Apply appropriate bactericide and ensure proper water management,Copper Oxychloride
+Rice,Citrus Canker,Use resistant varieties and apply fungicide,Neem Oil
+Sugarcane,Bacterial Wilt,Use resistant varieties and apply fungicide,Neem Oil
+Peanut,Southern Blight,Use fungicides and practice crop rotation,Carbendazim
+Sugarcane,Botrytis Blight,Use resistant varieties and ensure proper drainage,Neem Oil
+Barley,Yellowing,Improve drainage and use appropriate fungicides,Myclobutanil
+Potato,Iron Chlorosis,Use resistant varieties and ensure proper drainage,Tebuconazole
+Rice,Yellow Rust,Apply copper-based fungicides,Imidacloprid
+Maize,Stem Rust,Use resistant varieties and ensure proper drainage,Metalaxyl
+Sugarcane,Fruit Spot,Fungicide application and plant resistant varieties,Metalaxyl
+Maize,Leaf Spot,Use fungicides and practice crop rotation,Imidacloprid
+Rice,Stem Rot,Use resistant varieties and apply fungicides,Neem Oil
+Potato,Bacterial Wilt,Fungicide application and plant resistant varieties,Copper Oxychloride
+Sugarcane,Yellows,Use fungicide and practice crop rotation,Abamectin
+Barley,Fusarium Wilt,Regular monitoring and fungicide application,Spinosad
+Rice,Water Mold,Apply appropriate bactericide and ensure proper water management,Azoxystrobin
+Wheat,Pink Mold,Use resistant varieties and apply fungicides,Myclobutanil
+Maize,Alternaria Blight,Regular monitoring and fungicide application,Captan
+Cotton,Stem Canker,Use fungicide and practice crop rotation,Propiconazole
+Sugarcane,Scab,Improve drainage and use appropriate fungicides,Chlorothalonil
+Sugarcane,Black Heart,Apply appropriate bactericide and ensure proper water management,Bacillus thuringiensis
+Tomato,Wilt,Use resistant varieties and apply fungicide,Sulfur
+Sugarcane,Black Rot,Apply copper-based fungicides,Thiacloprid
+Barley,Sunburn,Use resistant varieties and apply fungicide,Thiacloprid
+Barley,Pythium Blight,Use resistant varieties and ensure proper drainage,Neem Oil
+Tomato,Yellow Spot,Fungicide application and plant resistant varieties,Abamectin
+Tomato,Galls,Regular monitoring and fungicide application,Abamectin
+Sugarcane,Early Blight,Apply appropriate bactericide and ensure proper water management,Tebuconazole
+Rice,Wirestem,Apply copper-based fungicides,Carbendazim
+Cotton,Stem Canker,Use resistant varieties and ensure proper drainage,Mancozeb
+Tomato,Iron Chlorosis,Use resistant varieties and ensure proper drainage,Copper Oxychloride
+Cotton,Botrytis Blight,Regular monitoring and fungicide application,Abamectin
+Maize,Anthracnose,Apply appropriate bactericide and ensure proper water management,Metalaxyl
+Potato,Fusarium Wilt,Apply copper-based fungicides,Mancozeb
+Cotton,Sunburn,Improve drainage and use appropriate fungicides,Lambda-Cyhalothrin
+Maize,Mosaic Virus,Regular monitoring and fungicide application,Myclobutanil
+Rice,Brown Rot,Regular monitoring and fungicide application,Bacillus thuringiensis
+Tomato,Rust,Fungicide application and plant resistant varieties,Copper Oxychloride
+Maize,Root Knot Nematode,Apply appropriate bactericide and ensure proper water management,Spinosad
+Peanut,Black Rot,Fungicide application and plant resistant varieties,Carbendazim
+Wheat,Leaf Roll,Use resistant varieties and apply fungicide,Abamectin
+Potato,Bacterial Leaf Blight,Use resistant varieties and apply fungicides,Abamectin
+Sugarcane,Powdery Mildew,Use fungicides and practice crop rotation,Imidacloprid
+Tomato,Rhizoctonia Root Rot,Regular monitoring and fungicide application,Metalaxyl
+Tomato,Stem Rust,Use fungicide and practice crop rotation,Carbendazim
+Maize,Black Rot,Apply copper-based fungicides,Sulfur
+Potato,Verticillium Wilt,Use fungicides and practice crop rotation,Captan
+Barley,Leaf Curl,Use resistant varieties and apply fungicides,Bacillus thuringiensis
+Maize,Red Rot,Regular monitoring and fungicide application,Neem Oil
+Potato,Streak,Apply appropriate bactericide and ensure proper water management,Azoxystrobin
+Wheat,Galls,Improve drainage and use appropriate fungicides,Abamectin
+Rice,White Mold,Use resistant varieties and apply fungicides,Spinosad
+Cotton,Ring Spot,Use fungicides and practice crop rotation,Chlorothalonil
+Soybean,White Rust,Use fungicide and practice crop rotation,Bacillus thuringiensis
+Cotton,Zonate Leaf Spot,Apply copper-based fungicides,Spinosad
+Rice,Clubroot,Regular monitoring and fungicide application,Spinosad
+Potato,Crown Rot,Use fungicides and practice crop rotation,Carbendazim
+Wheat,Alternaria Leaf Spot,Apply appropriate bactericide and ensure proper water management,Spinosad
+Peanut,Stem Rot,Use resistant varieties and apply fungicides,Spinosad
+Tomato,Botrytis Blight,Apply appropriate bactericide and ensure proper water management,Carbendazim
+Sugarcane,Canker,Apply appropriate bactericide and ensure proper water management,Captan
+Rice,Bacterial Soft Rot,Fungicide application and plant resistant varieties,Sulfur
+Sugarcane,Sooty Mold,Use resistant varieties and apply fungicides,Chlorothalonil
